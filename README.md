@@ -1,6 +1,6 @@
 # vue-market
 
-[项目演示地址](http://vuejssellapp.t.imooc.io/#!/)
+[项目演示地址](https://eleanors.github.io/vue-market/dist/#!/)
 
 ## 开发过程示意图
 
